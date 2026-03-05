@@ -68,6 +68,8 @@ og_image: /assets/img/selfie.png # The site-wide (default for all links) Open Gr
 # -----------------------------------------------------------------------------
 
 github_username: wang-zjin # your GitHub user name
+option_pricing_url: https://zjinwang.com/fx-option-calculator/ # 外汇期权定价计算器链接
+option_pricing_title: FX Option Pricing Calculator # 外汇期权定价计算器名称
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
